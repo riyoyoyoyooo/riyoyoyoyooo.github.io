@@ -3,9 +3,9 @@
 </head>
 
 <body background="background.jpg">
-	<font color=yellow><b><font name=Cambria>
+	<font color=yellow><b>
 			<h1 align=center>RIO DE LEMOS</h1>
-		</b></font></font>
+	</b></font>
 	<hr><br><br>
 	
 	<center>
