@@ -1,6 +1,5 @@
 <html>
 <body>
-	<center>RIO DE LEMOS</center>
 <center>
 		<table border=5 bgcolor=yellow width=100%>
 			<th><a href="education.html">EDUCATION</a></th>
