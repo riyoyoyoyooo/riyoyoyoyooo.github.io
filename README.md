@@ -1,15 +1,6 @@
 <html>
-<head>
-<title>Home</title>
-</head>
-
-<body background="background.jpg">
-	<font color=yellow><b><font name=Cambria>
-			<h1 align=center>RIO DE LEMOS</h1>
-		</b></font></font>
-	<hr><br><br>
-	
-	<center>
+<body>
+<center>
 		<table border=5 bgcolor=yellow width=100%>
 			<th><a href="education.html">EDUCATION</a></th>
 			<th><a href="work experience.html">WORK EXPERIENCE</a></th>
