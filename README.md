@@ -5,7 +5,7 @@
 
 <body background="background.jpg">
 	<font color=yellow><b><font name=Cambria>
-			<h1 align=center>RIO DE LEMOS</h1>
+			<h1 align=center>rxdxlx</h1>
 		</b></font></font>
 	<hr><br><br>
 	
